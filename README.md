@@ -4,13 +4,15 @@ A small native Win32 tray app for Windows that shows your battery percentage and
 
 ## At a glance
 
-These illustrations show how Battery Buddy appears in the notification area and what its controls do. Battery values are examples.
+Hover over the tray icon to see battery details and whether keep-awake is enabled:
 
-![A battery percentage shown in the Windows notification area](docs/images/tray.svg)
+![Battery details with keep-awake on](docs/images/battery-awake-on.png)
 
-![The hover tooltip with battery time and discharging rate](docs/images/battery-details.svg)
+![Battery details with keep-awake off](docs/images/battery-awake-off.png)
 
-![The tray menu with Keep computer awake enabled](docs/images/keep-awake.svg)
+Right-click the icon to change keep-awake and sign-in settings:
+
+![Battery Buddy tray menu](docs/images/tray-menu.png)
 
 ## Download and use
 
