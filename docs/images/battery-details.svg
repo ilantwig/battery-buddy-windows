@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430" role="img" aria-labelledby="title desc">
+<title id="title">Hover to see battery details</title><desc id="desc">Illustration of a tooltip showing 84 percent, two hours 15 minutes remaining, and a 27.6 watt discharge rate.</desc>
+<rect width="900" height="430" rx="24" fill="#101821"/><circle cx="818" cy="66" r="104" fill="#1c3440" opacity=".45"/>
+<text x="56" y="75" fill="#8cdcb9" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2">BATTERY BUDDY</text>
+<text x="56" y="132" fill="#f5f8f7" font-family="Segoe UI,Arial,sans-serif" font-size="36" font-weight="600">Hover for the details</text>
+<text x="56" y="177" fill="#b9c8cc" font-family="Segoe UI,Arial,sans-serif" font-size="20">See the estimated time and power rate when available.</text>
+<rect x="56" y="215" width="788" height="161" rx="14" fill="#202b34" stroke="#40505a"/>
+<text x="86" y="258" fill="#f5f8f7" font-family="Segoe UI,Arial,sans-serif" font-size="22">Battery: 84%</text><text x="86" y="291" fill="#f5f8f7" font-family="Segoe UI,Arial,sans-serif" font-size="22">About 2 hr 15 min remaining</text><text x="86" y="324" fill="#f5f8f7" font-family="Segoe UI,Arial,sans-serif" font-size="22">Discharging: 27.6 W</text><text x="86" y="357" fill="#f5f8f7" font-family="Segoe UI,Arial,sans-serif" font-size="22">Keep awake: off</text>
+<rect x="694" y="260" width="76" height="76" rx="6" fill="#243f48"/><text x="732" y="313" fill="white" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="700">84</text>
+<text x="56" y="403" fill="#91a4a9" font-family="Segoe UI,Arial,sans-serif" font-size="15">Illustration · estimates and wattage depend on Windows and your battery</text>
+</svg>
+
