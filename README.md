@@ -2,6 +2,16 @@
 
 A small native Win32 tray app for Windows that shows your battery percentage and helps keep your computer awake during long-running work. It is written in C++ and does not require .NET.
 
+## At a glance
+
+These illustrations show how Battery Buddy appears in the notification area and what its controls do. Battery values are examples.
+
+![A battery percentage shown in the Windows notification area](docs/images/tray.svg)
+
+![The hover tooltip with battery time and discharging rate](docs/images/battery-details.svg)
+
+![The tray menu with Keep computer awake enabled](docs/images/keep-awake.svg)
+
 ## Download and use
 
 Download [BatteryBuddy-Windows-x64.zip](https://github.com/ilantwig/battery-buddy-windows/releases/latest), extract it, and run `BatteryBuddy.exe`. Windows 10 or 11 x64 is required. The unsigned build may prompt an unknown publisher warning.
@@ -27,4 +37,5 @@ The setup script downloads a pinned LLVM-MinGW release and checks its SHA-256 ha
 ## License
 
 MIT. See [LICENSE.txt](LICENSE.txt) and [third-party notices](THIRD_PARTY_NOTICES.md).
+
 
